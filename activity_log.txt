@@ -3,3 +3,4 @@ Activity at 2023-01-05T10:50:00: Feature: add support for distributed processing
 Activity at 2023-01-05T15:38:00: Refactor: optimize performance in core module
 Activity at 2023-01-09T20:05:00: Feature: add support for distributed processing
 Activity at 2023-01-09T17:46:00: Docs: update API documentation and examples
+Activity at 2023-01-09T13:04:00: Docs: update API documentation and examples
