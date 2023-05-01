@@ -188,3 +188,4 @@ Activity at 2023-04-26T14:53:00: Test: add unit tests for edge cases
 Activity at 2023-04-28T17:10:00: Test: add unit tests for edge cases
 Activity at 2023-04-28T10:59:00: Chore: update dependencies and build scripts
 Activity at 2023-05-01T12:11:00: Fix: resolve memory leak in inference engine
+Activity at 2023-05-01T12:23:00: Fix: resolve memory leak in inference engine
