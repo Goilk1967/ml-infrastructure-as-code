@@ -6,3 +6,4 @@ Fixed Activity at 2023-09-01T18:19:00: Docs: update API documentation and exampl
 Fixed Activity at 2023-09-01T13:17:00: Docs: update API documentation and examples
 Fixed Activity at 2023-09-01T09:23:00: Optimize: data loading strategy
 Fixed Activity at 2023-09-01T19:43:00: Optimize: data loading strategy
+Fixed Activity at 2023-09-01T16:58:00: Refactor: simplify data transformation pipeline
