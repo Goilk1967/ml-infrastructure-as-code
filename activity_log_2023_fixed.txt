@@ -13,3 +13,4 @@ Fixed Activity at 2023-09-04T18:08:00: Docs: update API documentation and exampl
 Fixed Activity at 2023-09-04T17:09:00: Chore: update dependencies and build scripts
 Fixed Activity at 2023-09-04T21:11:00: Refine: inference logic for edge devices
 Fixed Activity at 2023-09-04T21:25:00: Docs: update API documentation and examples
+Fixed Activity at 2023-09-04T09:38:00: Test: add unit tests for edge cases
