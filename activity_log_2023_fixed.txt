@@ -97,3 +97,4 @@ Fixed Activity at 2023-09-25T10:03:00: Feature: add support for distributed proc
 Fixed Activity at 2023-09-25T13:17:00: Optimize: data loading strategy
 Fixed Activity at 2023-09-25T09:55:00: Chore: update dependencies and build scripts
 Fixed Activity at 2023-09-25T15:01:00: Feature: add support for distributed processing
+Fixed Activity at 2023-09-26T09:08:00: Refine: inference logic for edge devices
