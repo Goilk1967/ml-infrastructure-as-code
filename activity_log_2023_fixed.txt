@@ -124,3 +124,4 @@ Fixed Activity at 2023-10-03T14:22:00: Refine: inference logic for edge devices
 Fixed Activity at 2023-10-03T14:33:00: Refactor: optimize performance in core module
 Fixed Activity at 2023-10-03T19:05:00: Refactor: optimize performance in core module
 Fixed Activity at 2023-10-03T20:12:00: Style: improve code readability and formatting
+Fixed Activity at 2023-10-04T15:37:00: Optimize: data loading strategy
