@@ -323,3 +323,4 @@ Fixed Activity at 2023-11-21T13:46:00: Docs: update API documentation and exampl
 Fixed Activity at 2023-11-21T12:10:00: Refactor: optimize performance in core module
 Fixed Activity at 2023-11-21T11:29:00: Docs: update API documentation and examples
 Fixed Activity at 2023-11-21T12:04:00: Style: improve code readability and formatting
+Fixed Activity at 2023-11-22T15:46:00: Docs: update API documentation and examples
