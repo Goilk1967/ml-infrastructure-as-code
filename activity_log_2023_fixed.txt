@@ -351,3 +351,4 @@ Fixed Activity at 2023-11-29T12:04:00: Refine: inference logic for edge devices
 Fixed Activity at 2023-11-29T15:38:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2023-11-29T16:31:00: Test: add unit tests for edge cases
 Fixed Activity at 2023-11-29T10:23:00: Test: add unit tests for edge cases
+Fixed Activity at 2023-11-29T17:02:00: Refactor: optimize performance in core module
