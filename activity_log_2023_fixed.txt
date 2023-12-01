@@ -360,3 +360,4 @@ Fixed Activity at 2023-11-30T13:20:00: Docs: update API documentation and exampl
 Fixed Activity at 2023-11-30T11:49:00: Update: internal model parameters
 Fixed Activity at 2023-12-01T10:17:00: Refactor: simplify data transformation pipeline
 Fixed Activity at 2023-12-01T20:59:00: Refactor: optimize performance in core module
+Fixed Activity at 2023-12-01T09:08:00: Refactor: simplify data transformation pipeline
