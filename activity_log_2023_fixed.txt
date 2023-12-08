@@ -386,3 +386,4 @@ Fixed Activity at 2023-12-07T10:15:00: Fix: resolve memory leak in inference eng
 Fixed Activity at 2023-12-07T16:54:00: Optimize: data loading strategy
 Fixed Activity at 2023-12-07T11:13:00: Chore: update dependencies and build scripts
 Fixed Activity at 2023-12-07T18:18:00: Refine: inference logic for edge devices
+Fixed Activity at 2023-12-08T11:14:00: Refactor: optimize performance in core module
