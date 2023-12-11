@@ -394,3 +394,4 @@ Fixed Activity at 2023-12-08T18:10:00: Feature: add support for distributed proc
 Fixed Activity at 2023-12-08T15:13:00: Docs: update API documentation and examples
 Fixed Activity at 2023-12-08T14:14:00: Test: add unit tests for edge cases
 Fixed Activity at 2023-12-11T20:58:00: Feature: add support for distributed processing
+Fixed Activity at 2023-12-11T15:03:00: Feature: add support for distributed processing
