@@ -451,3 +451,4 @@ Fixed Activity at 2023-12-27T19:53:00: Improve: logging and monitoring system
 Fixed Activity at 2023-12-27T21:01:00: Docs: update API documentation and examples
 Fixed Activity at 2023-12-28T20:01:00: Update: internal model parameters
 Fixed Activity at 2023-12-28T18:39:00: Chore: update dependencies and build scripts
+Fixed Activity at 2023-12-28T10:35:00: Fix: resolve memory leak in inference engine
