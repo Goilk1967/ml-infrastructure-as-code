@@ -20,3 +20,4 @@ Fixed Activity at 2024-05-06T17:45:00: Refactor: optimize performance in core mo
 Fixed Activity at 2024-05-06T18:27:00: Test: add unit tests for edge cases
 Fixed Activity at 2024-05-07T10:55:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-05-07T10:33:00: Chore: update dependencies and build scripts
+Fixed Activity at 2024-05-07T21:34:00: Test: add unit tests for edge cases
