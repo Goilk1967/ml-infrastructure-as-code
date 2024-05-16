@@ -61,3 +61,4 @@ Fixed Activity at 2024-05-16T21:39:00: Chore: update dependencies and build scri
 Fixed Activity at 2024-05-16T13:39:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2024-05-16T14:32:00: Optimize: data loading strategy
 Fixed Activity at 2024-05-16T18:44:00: Chore: update dependencies and build scripts
+Fixed Activity at 2024-05-16T17:15:00: Docs: update API documentation and examples
