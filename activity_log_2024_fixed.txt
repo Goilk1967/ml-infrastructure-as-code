@@ -131,3 +131,4 @@ Fixed Activity at 2024-06-07T20:52:00: Refactor: optimize performance in core mo
 Fixed Activity at 2024-06-07T10:22:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-06-07T10:57:00: Refactor: optimize performance in core module
 Fixed Activity at 2024-06-07T15:24:00: Optimize: data loading strategy
+Fixed Activity at 2024-06-07T14:23:00: Docs: update API documentation and examples
