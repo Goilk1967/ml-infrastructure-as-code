@@ -142,3 +142,4 @@ Fixed Activity at 2024-06-10T15:07:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-06-10T21:05:00: Update: internal model parameters
 Fixed Activity at 2024-06-11T09:22:00: Feature: add support for distributed processing
 Fixed Activity at 2024-06-11T17:03:00: Refine: inference logic for edge devices
+Fixed Activity at 2024-06-11T12:26:00: Fix: resolve memory leak in inference engine
