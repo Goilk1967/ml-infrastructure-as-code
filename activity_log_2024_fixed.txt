@@ -162,3 +162,4 @@ Fixed Activity at 2024-06-14T13:17:00: Fix: resolve memory leak in inference eng
 Fixed Activity at 2024-06-14T18:07:00: Chore: update dependencies and build scripts
 Fixed Activity at 2024-06-14T16:20:00: Improve: logging and monitoring system
 Fixed Activity at 2024-06-17T09:24:00: Refine: inference logic for edge devices
+Fixed Activity at 2024-06-17T09:50:00: Fix: resolve memory leak in inference engine
