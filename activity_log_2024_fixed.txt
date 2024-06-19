@@ -180,3 +180,4 @@ Fixed Activity at 2024-06-19T10:21:00: Fix: resolve memory leak in inference eng
 Fixed Activity at 2024-06-19T10:17:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2024-06-19T17:44:00: Improve: logging and monitoring system
 Fixed Activity at 2024-06-19T19:41:00: Docs: update API documentation and examples
+Fixed Activity at 2024-06-19T17:58:00: Docs: update API documentation and examples
