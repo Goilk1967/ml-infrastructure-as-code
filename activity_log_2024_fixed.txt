@@ -230,3 +230,4 @@ Fixed Activity at 2024-07-02T09:10:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-07-02T10:47:00: Docs: update API documentation and examples
 Fixed Activity at 2024-07-02T14:58:00: Refactor: optimize performance in core module
 Fixed Activity at 2024-07-03T09:55:00: Refine: inference logic for edge devices
+Fixed Activity at 2024-07-03T13:17:00: Docs: update API documentation and examples
