@@ -307,3 +307,4 @@ Fixed Activity at 2024-07-26T16:18:00: Feature: add support for distributed proc
 Fixed Activity at 2024-07-26T11:30:00: Refactor: simplify data transformation pipeline
 Fixed Activity at 2024-07-26T11:38:00: Update: internal model parameters
 Fixed Activity at 2024-07-26T18:52:00: Refactor: simplify data transformation pipeline
+Fixed Activity at 2024-07-26T18:45:00: Fix: resolve memory leak in inference engine
