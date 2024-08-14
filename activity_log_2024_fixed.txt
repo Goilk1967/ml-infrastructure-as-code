@@ -358,3 +358,4 @@ Fixed Activity at 2024-08-13T12:54:00: Docs: update API documentation and exampl
 Fixed Activity at 2024-08-13T09:29:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2024-08-14T12:12:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2024-08-14T11:34:00: Update: internal model parameters
+Fixed Activity at 2024-08-14T11:19:00: Refactor: simplify data transformation pipeline
