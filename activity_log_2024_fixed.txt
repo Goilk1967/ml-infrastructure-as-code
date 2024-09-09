@@ -450,3 +450,4 @@ Fixed Activity at 2024-09-09T17:34:00: Refactor: simplify data transformation pi
 Fixed Activity at 2024-09-09T20:56:00: Refactor: optimize performance in core module
 Fixed Activity at 2024-09-09T10:53:00: Docs: update API documentation and examples
 Fixed Activity at 2024-09-09T09:44:00: Docs: update API documentation and examples
+Fixed Activity at 2024-09-09T14:11:00: Test: add unit tests for edge cases
