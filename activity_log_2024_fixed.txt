@@ -467,3 +467,4 @@ Fixed Activity at 2024-09-13T15:02:00: Style: improve code readability and forma
 Fixed Activity at 2024-09-13T11:22:00: Chore: update dependencies and build scripts
 Fixed Activity at 2024-09-13T13:03:00: Refactor: optimize performance in core module
 Fixed Activity at 2024-09-13T11:39:00: Optimize: data loading strategy
+Fixed Activity at 2024-09-13T10:09:00: Refine: inference logic for edge devices
