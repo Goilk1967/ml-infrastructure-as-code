@@ -477,3 +477,4 @@ Fixed Activity at 2024-09-17T11:13:00: Docs: update API documentation and exampl
 Fixed Activity at 2024-09-17T20:12:00: Refactor: optimize performance in core module
 Fixed Activity at 2024-09-17T10:06:00: Optimize: data loading strategy
 Fixed Activity at 2024-09-18T10:19:00: Optimize: data loading strategy
+Fixed Activity at 2024-09-18T14:56:00: Refactor: simplify data transformation pipeline
