@@ -487,3 +487,4 @@ Fixed Activity at 2024-09-19T14:51:00: Chore: update dependencies and build scri
 Fixed Activity at 2024-09-19T12:22:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-09-20T11:49:00: Optimize: data loading strategy
 Fixed Activity at 2024-09-20T13:44:00: Refactor: optimize performance in core module
+Fixed Activity at 2024-09-20T18:08:00: Refactor: optimize performance in core module
