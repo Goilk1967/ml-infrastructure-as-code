@@ -500,3 +500,4 @@ Fixed Activity at 2024-09-24T14:24:00: Docs: update API documentation and exampl
 Fixed Activity at 2024-09-24T16:35:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2024-09-24T21:19:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2024-09-25T10:53:00: Refactor: optimize performance in core module
+Fixed Activity at 2024-09-25T11:23:00: Optimize: data loading strategy
