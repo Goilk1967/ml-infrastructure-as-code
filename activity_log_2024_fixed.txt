@@ -575,3 +575,4 @@ Fixed Activity at 2024-10-14T15:08:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-10-15T12:50:00: Refactor: optimize performance in core module
 Fixed Activity at 2024-10-15T20:19:00: Refactor: optimize performance in core module
 Fixed Activity at 2024-10-15T17:42:00: Refactor: optimize performance in core module
+Fixed Activity at 2024-10-15T18:29:00: Refine: inference logic for edge devices
