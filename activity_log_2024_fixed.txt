@@ -590,3 +590,4 @@ Fixed Activity at 2024-10-17T11:29:00: Optimize: data loading strategy
 Fixed Activity at 2024-10-17T21:35:00: Update: internal model parameters
 Fixed Activity at 2024-10-17T18:55:00: Refactor: optimize performance in core module
 Fixed Activity at 2024-10-18T19:42:00: Refactor: optimize performance in core module
+Fixed Activity at 2024-10-18T16:08:00: Test: add unit tests for edge cases
