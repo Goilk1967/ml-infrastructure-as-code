@@ -610,3 +610,4 @@ Fixed Activity at 2024-10-23T15:03:00: Feature: add support for distributed proc
 Fixed Activity at 2024-10-23T19:07:00: Docs: update API documentation and examples
 Fixed Activity at 2024-10-24T15:15:00: Update: internal model parameters
 Fixed Activity at 2024-10-24T11:56:00: Style: improve code readability and formatting
+Fixed Activity at 2024-10-24T21:13:00: Fix: resolve memory leak in inference engine
