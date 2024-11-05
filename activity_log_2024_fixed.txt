@@ -638,3 +638,4 @@ Fixed Activity at 2024-11-01T11:21:00: Optimize: data loading strategy
 Fixed Activity at 2024-11-01T21:09:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-11-01T17:57:00: Style: improve code readability and formatting
 Fixed Activity at 2024-11-04T16:49:00: Chore: update dependencies and build scripts
+Fixed Activity at 2024-11-04T21:04:00: Optimize: data loading strategy
