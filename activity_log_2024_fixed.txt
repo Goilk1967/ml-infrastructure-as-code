@@ -648,3 +648,4 @@ Fixed Activity at 2024-11-06T20:19:00: Test: add unit tests for edge cases
 Fixed Activity at 2024-11-06T15:51:00: Test: add unit tests for edge cases
 Fixed Activity at 2024-11-06T11:36:00: Update: internal model parameters
 Fixed Activity at 2024-11-06T18:13:00: Chore: update dependencies and build scripts
+Fixed Activity at 2024-11-06T10:58:00: Docs: update API documentation and examples
