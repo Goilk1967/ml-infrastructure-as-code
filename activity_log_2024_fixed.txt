@@ -650,3 +650,4 @@ Fixed Activity at 2024-11-06T11:36:00: Update: internal model parameters
 Fixed Activity at 2024-11-06T18:13:00: Chore: update dependencies and build scripts
 Fixed Activity at 2024-11-06T10:58:00: Docs: update API documentation and examples
 Fixed Activity at 2024-11-06T13:45:00: Update: internal model parameters
+Fixed Activity at 2024-11-06T17:27:00: Fix: resolve memory leak in inference engine
