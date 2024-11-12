@@ -668,3 +668,4 @@ Fixed Activity at 2024-11-08T09:04:00: Fix: resolve memory leak in inference eng
 Fixed Activity at 2024-11-08T14:53:00: Docs: update API documentation and examples
 Fixed Activity at 2024-11-11T14:49:00: Docs: update API documentation and examples
 Fixed Activity at 2024-11-11T11:43:00: Style: improve code readability and formatting
+Fixed Activity at 2024-11-12T15:11:00: Test: add unit tests for edge cases
