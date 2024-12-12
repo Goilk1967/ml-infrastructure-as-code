@@ -776,3 +776,4 @@ Fixed Activity at 2024-12-12T12:29:00: Chore: update dependencies and build scri
 Fixed Activity at 2024-12-12T18:50:00: Style: improve code readability and formatting
 Fixed Activity at 2024-12-12T18:12:00: Docs: update API documentation and examples
 Fixed Activity at 2024-12-12T21:33:00: Docs: update API documentation and examples
+Fixed Activity at 2024-12-12T12:37:00: Update: internal model parameters
