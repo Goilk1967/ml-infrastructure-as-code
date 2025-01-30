@@ -84,3 +84,4 @@ Fixed Activity at 2025-01-29T09:35:00: Style: improve code readability and forma
 Fixed Activity at 2025-01-29T13:44:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-01-29T19:07:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2025-01-29T15:44:00: Docs: update API documentation and examples
+Fixed Activity at 2025-01-29T20:32:00: Test: add unit tests for edge cases
