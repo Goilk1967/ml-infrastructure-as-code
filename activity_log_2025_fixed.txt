@@ -191,3 +191,4 @@ Fixed Activity at 2025-02-24T20:56:00: Improve: logging and monitoring system
 Fixed Activity at 2025-02-24T13:21:00: Optimize: data loading strategy
 Fixed Activity at 2025-02-24T18:40:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-02-24T19:29:00: Refine: inference logic for edge devices
+Fixed Activity at 2025-02-24T09:24:00: Fix: resolve memory leak in inference engine
