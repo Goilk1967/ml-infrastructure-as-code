@@ -192,3 +192,4 @@ Fixed Activity at 2025-02-24T13:21:00: Optimize: data loading strategy
 Fixed Activity at 2025-02-24T18:40:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-02-24T19:29:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-02-24T09:24:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2025-02-24T11:59:00: Test: add unit tests for edge cases
