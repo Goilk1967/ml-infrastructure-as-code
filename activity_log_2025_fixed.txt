@@ -204,3 +204,4 @@ Fixed Activity at 2025-02-25T10:36:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-02-25T10:35:00: Test: add unit tests for edge cases
 Fixed Activity at 2025-02-25T10:37:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-02-25T21:16:00: Optimize: data loading strategy
+Fixed Activity at 2025-02-25T14:48:00: Test: add unit tests for edge cases
