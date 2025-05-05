@@ -428,3 +428,4 @@ Fixed Activity at 2025-05-01T21:40:00: Fix: resolve memory leak in inference eng
 Fixed Activity at 2025-05-02T09:37:00: Style: improve code readability and formatting
 Fixed Activity at 2025-05-02T16:35:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-05-02T09:48:00: Optimize: data loading strategy
+Fixed Activity at 2025-05-05T18:25:00: Docs: update API documentation and examples
