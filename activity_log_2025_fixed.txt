@@ -442,3 +442,4 @@ Fixed Activity at 2025-05-07T11:25:00: Optimize: data loading strategy
 Fixed Activity at 2025-05-07T12:18:00: Chore: update dependencies and build scripts
 Fixed Activity at 2025-05-07T20:55:00: Refactor: optimize performance in core module
 Fixed Activity at 2025-05-07T11:25:00: Refine: inference logic for edge devices
+Fixed Activity at 2025-05-08T11:32:00: Fix: resolve memory leak in inference engine
