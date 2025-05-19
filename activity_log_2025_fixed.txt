@@ -482,3 +482,4 @@ Fixed Activity at 2025-05-16T17:21:00: Refactor: simplify data transformation pi
 Fixed Activity at 2025-05-16T20:52:00: Docs: update API documentation and examples
 Fixed Activity at 2025-05-19T20:41:00: Style: improve code readability and formatting
 Fixed Activity at 2025-05-19T09:25:00: Style: improve code readability and formatting
+Fixed Activity at 2025-05-19T16:58:00: Test: add unit tests for edge cases
