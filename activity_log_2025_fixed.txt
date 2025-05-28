@@ -512,3 +512,4 @@ Fixed Activity at 2025-05-26T18:30:00: Fix: resolve memory leak in inference eng
 Fixed Activity at 2025-05-27T16:39:00: Optimize: data loading strategy
 Fixed Activity at 2025-05-27T21:58:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-05-28T11:59:00: Chore: update dependencies and build scripts
+Fixed Activity at 2025-05-28T16:02:00: Fix: resolve memory leak in inference engine
