@@ -563,3 +563,4 @@ Fixed Activity at 2025-06-06T15:29:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-06-09T09:05:00: Chore: update dependencies and build scripts
 Fixed Activity at 2025-06-09T16:29:00: Update: internal model parameters
 Fixed Activity at 2025-06-09T13:01:00: Docs: update API documentation and examples
+Fixed Activity at 2025-06-09T17:38:00: Optimize: data loading strategy
