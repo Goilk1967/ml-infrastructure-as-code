@@ -560,3 +560,4 @@ Fixed Activity at 2025-06-06T21:05:00: Optimize: data loading strategy
 Fixed Activity at 2025-06-06T11:57:00: Docs: update API documentation and examples
 Fixed Activity at 2025-06-06T17:49:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2025-06-06T15:29:00: Refine: inference logic for edge devices
+Fixed Activity at 2025-06-09T09:05:00: Chore: update dependencies and build scripts
