@@ -574,3 +574,4 @@ Fixed Activity at 2025-06-10T17:18:00: Chore: update dependencies and build scri
 Fixed Activity at 2025-06-10T15:54:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-06-11T11:26:00: Test: add unit tests for edge cases
 Fixed Activity at 2025-06-11T16:28:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2025-06-11T18:50:00: Fix: resolve memory leak in inference engine
