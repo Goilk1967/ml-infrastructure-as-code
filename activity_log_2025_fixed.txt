@@ -590,3 +590,4 @@ Fixed Activity at 2025-06-16T10:58:00: Update: internal model parameters
 Fixed Activity at 2025-06-16T17:18:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2025-06-16T12:18:00: Update: internal model parameters
 Fixed Activity at 2025-06-16T21:44:00: Update: internal model parameters
+Fixed Activity at 2025-06-17T14:40:00: Test: add unit tests for edge cases
