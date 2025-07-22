@@ -719,3 +719,4 @@ Fixed Activity at 2025-07-21T14:11:00: Refactor: optimize performance in core mo
 Fixed Activity at 2025-07-21T10:30:00: Update: internal model parameters
 Fixed Activity at 2025-07-21T19:18:00: Docs: update API documentation and examples
 Fixed Activity at 2025-07-22T09:34:00: Refine: inference logic for edge devices
+Fixed Activity at 2025-07-22T10:13:00: Test: add unit tests for edge cases
