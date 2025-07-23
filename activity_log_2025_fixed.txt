@@ -727,3 +727,4 @@ Fixed Activity at 2025-07-23T20:54:00: Refactor: simplify data transformation pi
 Fixed Activity at 2025-07-23T09:08:00: Update: internal model parameters
 Fixed Activity at 2025-07-23T15:59:00: Style: improve code readability and formatting
 Fixed Activity at 2025-07-23T20:53:00: Style: improve code readability and formatting
+Fixed Activity at 2025-07-23T10:05:00: Docs: update API documentation and examples
