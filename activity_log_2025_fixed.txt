@@ -741,3 +741,4 @@ Fixed Activity at 2025-07-28T12:15:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-07-28T13:54:00: Refactor: simplify data transformation pipeline
 Fixed Activity at 2025-07-28T11:45:00: Docs: update API documentation and examples
 Fixed Activity at 2025-07-29T15:53:00: Docs: update API documentation and examples
+Fixed Activity at 2025-07-29T13:10:00: Fix: resolve memory leak in inference engine
