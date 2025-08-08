@@ -770,3 +770,4 @@ Fixed Activity at 2025-08-07T15:48:00: Docs: update API documentation and exampl
 Fixed Activity at 2025-08-07T10:52:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2025-08-07T18:21:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2025-08-07T09:21:00: Improve: logging and monitoring system
+Fixed Activity at 2025-08-07T20:52:00: Refine: inference logic for edge devices
