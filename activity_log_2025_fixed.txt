@@ -781,3 +781,4 @@ Fixed Activity at 2025-08-08T13:54:00: Docs: update API documentation and exampl
 Fixed Activity at 2025-08-08T16:34:00: Chore: update dependencies and build scripts
 Fixed Activity at 2025-08-08T14:29:00: Refactor: simplify data transformation pipeline
 Fixed Activity at 2025-08-08T16:35:00: Refactor: simplify data transformation pipeline
+Fixed Activity at 2025-08-08T15:10:00: Refine: inference logic for edge devices
