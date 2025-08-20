@@ -812,3 +812,4 @@ Fixed Activity at 2025-08-20T13:10:00: Refactor: simplify data transformation pi
 Fixed Activity at 2025-08-20T18:16:00: Test: add unit tests for edge cases
 Fixed Activity at 2025-08-20T12:55:00: Refactor: simplify data transformation pipeline
 Fixed Activity at 2025-08-20T13:05:00: Test: add unit tests for edge cases
+Fixed Activity at 2025-08-20T15:13:00: Refine: inference logic for edge devices
