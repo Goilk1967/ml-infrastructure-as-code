@@ -820,3 +820,4 @@ Fixed Activity at 2025-08-22T14:08:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-08-22T11:29:00: Optimize: data loading strategy
 Fixed Activity at 2025-08-22T16:28:00: Chore: update dependencies and build scripts
 Fixed Activity at 2025-08-22T16:17:00: Update: internal model parameters
+Fixed Activity at 2025-08-25T20:37:00: Optimize: data loading strategy
