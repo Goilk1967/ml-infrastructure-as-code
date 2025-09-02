@@ -856,3 +856,4 @@ Fixed Activity at 2025-09-01T12:09:00: Docs: update API documentation and exampl
 Fixed Activity at 2025-09-02T16:19:00: Refactor: simplify data transformation pipeline
 Fixed Activity at 2025-09-02T17:50:00: Refactor: optimize performance in core module
 Fixed Activity at 2025-09-02T15:03:00: Docs: update API documentation and examples
+Fixed Activity at 2025-09-02T15:24:00: Docs: update API documentation and examples
