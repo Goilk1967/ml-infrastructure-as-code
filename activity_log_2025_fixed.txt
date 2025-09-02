@@ -857,3 +857,4 @@ Fixed Activity at 2025-09-02T16:19:00: Refactor: simplify data transformation pi
 Fixed Activity at 2025-09-02T17:50:00: Refactor: optimize performance in core module
 Fixed Activity at 2025-09-02T15:03:00: Docs: update API documentation and examples
 Fixed Activity at 2025-09-02T15:24:00: Docs: update API documentation and examples
+Fixed Activity at 2025-09-02T10:20:00: Update: internal model parameters
