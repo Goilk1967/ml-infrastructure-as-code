@@ -859,3 +859,4 @@ Fixed Activity at 2025-09-02T15:03:00: Docs: update API documentation and exampl
 Fixed Activity at 2025-09-02T15:24:00: Docs: update API documentation and examples
 Fixed Activity at 2025-09-02T10:20:00: Update: internal model parameters
 Fixed Activity at 2025-09-03T12:27:00: Optimize: data loading strategy
+Fixed Activity at 2025-09-03T09:54:00: Test: add unit tests for edge cases
