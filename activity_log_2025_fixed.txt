@@ -861,3 +861,4 @@ Fixed Activity at 2025-09-02T10:20:00: Update: internal model parameters
 Fixed Activity at 2025-09-03T12:27:00: Optimize: data loading strategy
 Fixed Activity at 2025-09-03T09:54:00: Test: add unit tests for edge cases
 Fixed Activity at 2025-09-03T18:19:00: Test: add unit tests for edge cases
+Fixed Activity at 2025-09-03T15:11:00: Fix: resolve memory leak in inference engine
