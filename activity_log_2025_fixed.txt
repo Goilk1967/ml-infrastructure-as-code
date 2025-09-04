@@ -866,3 +866,4 @@ Fixed Activity at 2025-09-03T16:10:00: Docs: update API documentation and exampl
 Fixed Activity at 2025-09-03T16:14:00: Optimize: data loading strategy
 Fixed Activity at 2025-09-04T12:12:00: Test: add unit tests for edge cases
 Fixed Activity at 2025-09-04T09:09:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2025-09-04T12:31:00: Fix: resolve memory leak in inference engine
