@@ -974,3 +974,4 @@ Fixed Activity at 2025-10-06T09:41:00: Test: add unit tests for edge cases
 Fixed Activity at 2025-10-06T20:57:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2025-10-06T18:14:00: Test: add unit tests for edge cases
 Fixed Activity at 2025-10-06T15:45:00: Refine: inference logic for edge devices
+Fixed Activity at 2025-10-06T15:21:00: Fix: resolve memory leak in inference engine
