@@ -970,3 +970,4 @@ Fixed Activity at 2025-10-03T12:02:00: Optimize: data loading strategy
 Fixed Activity at 2025-10-03T12:41:00: Update: internal model parameters
 Fixed Activity at 2025-10-06T13:06:00: Chore: update dependencies and build scripts
 Fixed Activity at 2025-10-06T17:47:00: Optimize: data loading strategy
+Fixed Activity at 2025-10-06T09:41:00: Test: add unit tests for edge cases
