@@ -1073,3 +1073,4 @@ Fixed Activity at 2025-11-03T11:51:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-11-04T21:56:00: Test: add unit tests for edge cases
 Fixed Activity at 2025-11-04T20:18:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2025-11-04T11:34:00: Docs: update API documentation and examples
+Fixed Activity at 2025-11-05T11:41:00: Fix: resolve memory leak in inference engine
